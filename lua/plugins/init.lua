@@ -31,6 +31,7 @@ return {
         "tsx",
         "javascript",
         "solidity",
+        "typescript",
       },
     },
   },
