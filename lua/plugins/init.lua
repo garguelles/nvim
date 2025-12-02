@@ -32,6 +32,7 @@ return {
         "javascript",
         "solidity",
         "typescript",
+        "dockerfile",
       },
     },
   },
